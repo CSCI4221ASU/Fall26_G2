@@ -105,12 +105,12 @@
 
 ### Rashaun Booker
 
-  See [Rashuan Booker's Project 2]()
+  See [Rashuan Booker's Project 2](https://github.com/CSCI4221ASU/Fall26_G2/blob/main/Project2/Rashaun/CSCI4221_F26-main/README.md)
 
 ### Tyana Davis
 
-  See [Tyana Davis's Project 2]()
+  See [Tyana Davis's Project 2](https://github.com/CSCI4221ASU/Fall26_G2/blob/main/Project2/TyanaDavis/Fall26_G4-main/project2/prototype_description.md)
 
 ### Jalen Woodard
 
-  See [Jalen Woodard's Project 2]()
+  See [Jalen Woodard's Project 2](https://github.com/CSCI4221ASU/Fall26_G2/blob/main/Project2/JalenWoodard/Fall26_G2-main/README.md)
