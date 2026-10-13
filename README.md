@@ -99,3 +99,13 @@
     Date: September 23, 2026
 
     During our group meeting, we discussed the requirements for Project 1. We discussed our product vision and assigned roles to each team member. We also discussed how we will use GitHub to manage our work and combine everyone's contributions.
+
+
+## Project 2
+
+### Rashaun Booker
+
+
+### Tyana Davis
+
+### Jalen Woodard
