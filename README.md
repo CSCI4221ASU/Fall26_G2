@@ -105,7 +105,12 @@
 
 ### Rashaun Booker
 
+  See [Rashuan Booker's Project 2]()
 
 ### Tyana Davis
 
+  See [Tyana Davis's Project 2]()
+
 ### Jalen Woodard
+
+  See [Jalen Woodard's Project 2]()
