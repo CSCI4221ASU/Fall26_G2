@@ -132,6 +132,7 @@
   See [Tyana Davis's Project 3, p1](Project3/TyanaDavis/minutes_1.md)
 
   See [Tyana Davis's Project 3, p2](Project3/TyanaDavis/minutes_2.md)
+  
   See [Tyana Davis's Project 3, p3](Project3/TyanaDavis/minutes_3.md)
 
 ### Jalen Woodard
