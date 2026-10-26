@@ -121,15 +121,18 @@
 
 ### Rashaun Booker
 
-  See [Rashuan Booker's Project 3](Project3/Rashaun/minutes4.md)
-  See [Rashuan Booker's Project 3](Project3/Rashaun/minutes5.md)
-  See [Rashuan Booker's Project 3](Project3/Rashaun/minutes6.md)
+  See [Rashuan Booker's Project 3, minutes 3](Project3/Rashaun/minutes_4.md)
+
+  See [Rashuan Booker's Project 3, minutes 4](Project3/Rashaun/minutes_5.md)
+
+  See [Rashuan Booker's Project 3. minutes 6](Project3/Rashaun/minutes_6.md)
 
 ### Tyana Davis
 
-  See [Tyana Davis's Project 3](Project3/TyanaDavis/minutes1.md)
-  See [Tyana Davis's Project 3](Project3/TyanaDavis/minutes2.md)
-  See [Tyana Davis's Project 3](Project3/TyanaDavis/minutes3.md)
+  See [Tyana Davis's Project 3, p1](Project3/TyanaDavis/minutes_1.md)
+
+  See [Tyana Davis's Project 3, p2](Project3/TyanaDavis/minutes_2.md)
+  See [Tyana Davis's Project 3, p3](Project3/TyanaDavis/minutes_3.md)
 
 ### Jalen Woodard
 
