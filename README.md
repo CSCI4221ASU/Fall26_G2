@@ -114,3 +114,23 @@
 ### Jalen Woodard
 
   See [Jalen Woodard's Project 2](Project2/JalenWoodard/Fall26_G2-main/README.md)
+
+
+
+## Project 2
+
+### Rashaun Booker
+
+  See [Rashuan Booker's Project 3](Project3/Rashaun/minutes4.md)
+  See [Rashuan Booker's Project 3](Project3/Rashaun/minutes5.md)
+  See [Rashuan Booker's Project 3](Project3/Rashaun/minutes6.md)
+
+### Tyana Davis
+
+  See [Tyana Davis's Project 3](Project3/TyanaDavis/minutes1.md)
+  See [Tyana Davis's Project 3](Project3/TyanaDavis/minutes2.md)
+  See [Tyana Davis's Project 3](Project3/TyanaDavis/minutes3.md)
+
+### Jalen Woodard
+
+  See [Jalen Woodard's Project 3](Project3/JalenWoodard/minutes_1.md)
