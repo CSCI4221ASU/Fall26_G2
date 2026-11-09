@@ -157,4 +157,4 @@
 
 ### Jalen Woodard
 
-  See [Jalen Woodard's Project 4](Project4/JalenWoodard/minutes_1.md)
+  Submit a pull request. However, the request askes to change the README.md file for the whole project. Further, the request for updating minutes does contain contents for project 4.
